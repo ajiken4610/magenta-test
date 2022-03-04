@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Nuxt settings
+.nuxt
+nuxt.d.ts
+.output
+.env
